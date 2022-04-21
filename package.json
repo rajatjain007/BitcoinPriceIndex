@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "mongodb": "^4.5.0"
   },
   "devDependencies": {
     "eslint": "^7.10.0",
